@@ -6,13 +6,27 @@ Its made using Go-lang nad has it's Database storage in MongoDB (Atlas).
 
 ## The API Endpoints
 
-### It currently supports 3 Enpoints:
+#### It currently supports 3 Enpoints:
 
-#### 1. Create an article (POST Request)
+##### 1. Create an article (POST Request)
 
-#### 2. Fetch all the articles (GET Request)
+##### 2. Fetch all the articles (GET Request)
 
-#### 3. Fetch a single article by ID (GET Request with and ID in URL encoding)
+##### 3. Fetch a single article by ID (GET Request with and ID in URL encoding)
+
+## Setup Development environment
+
+Clone the repo
+
+    git clone https://github.com/abhishek2507/appointy-news.git
+
+Run main.go (Make sure you have the correct version of Go Running)
+
+    go run main.go
+
+Build main.go (Make sure you have all the dependencies)
+
+    go build main.go
 
 For official documentation for Go-Lang refer the link below:
 
