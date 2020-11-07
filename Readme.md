@@ -2,7 +2,7 @@
 
 This project is made in Go-lang and provides the user to create and fetch the news feed through api calls.
 
-Its made using Go-lang nad has it's Database storage in MongoDB (Atlas).
+Its made using Go-lang and has it's Database storage in MongoDB (Atlas).
 
 ## The API Endpoints
 
